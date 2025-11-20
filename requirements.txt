@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+Pillow
+pdf2image
+easyocr
+SQLAlchemy
+python-dateutil
+openpyxl
+plotly
+transformers
+torch
+sentencepiece
